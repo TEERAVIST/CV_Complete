@@ -38,7 +38,7 @@ We're an open source movement that depends on your support to stay online and th
 
 - [Unsplash](https://unsplash.com)
 
-## Latest news
+## Latest news.
 
 <!--START_SECTION:news-->
 * [6 Compelling Reasons I Switched from WordPress to Hugo](https:&#x2F;&#x2F;hugoblox.com&#x2F;vs&#x2F;wordpress&#x2F;)
