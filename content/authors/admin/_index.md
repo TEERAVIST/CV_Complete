@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Teeravist 
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: teer uh vist 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Teeravist
+last_name: Poomisirisawat
 
 # Status emoji
 status:
@@ -21,17 +21,17 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: King Mongkut's University of Technology North Bangkok
+    url: https://www.kmutnb.ac.th/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Malware Analysis
+  - Embedded Systems
+  - Networking
 
 # Education to show in About widget
 education:
@@ -71,7 +71,7 @@ skills:
     color_border: '#f0bf23'
     items:
       - name: Hiking
-        description: ''
+        description: 'this is fun'
         percent: 60
         icon: person-hiking
         icon_pack: fas
@@ -105,7 +105,7 @@ social:
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/TEERAVIST
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
@@ -119,6 +119,6 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+I'm Mathematics-Computer Science Student at KMUTNB with passion for ethical hacking seeking an entry-level position as a penetration tester. I'm able to do my best work, have teamwork and individual skills, problem solving, flexibility, furthermore, I'm attend to recieve more knowledges and experiences.
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 {style="text-align: justify;"}
