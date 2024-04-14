@@ -39,7 +39,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Biography
+      title: Cyber Security
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: skills
@@ -173,6 +173,18 @@ sections:
           tag: '*'
         - name: Deep Learning
           tag: Deep Learning
+        - name: Linux Kernel
+          tag: LinuxKernel, KernelExpliotion
+        - name: Networking
+          tag: Networking
+        - name: Machine Learning
+          tag: MachineLearning
+        - name: Programming
+          tag: Programming
+        - name: Hardware Hacking
+          tag: EmbeddedSecurity, HardwareHacking, FirmwareExploits, HardwareExploitation, HardwareBackdoors
+        - name: Malware development
+          tag:  Malwaredevelopment, Malware
         - name: Other
           tag: Demo
     design:
